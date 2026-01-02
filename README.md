@@ -50,18 +50,14 @@ Results-driven Computer Science student focused on building **real-world AI syst
 - **Web:** React, Next.js, Node.js, Express, Streamlit  
 - **Databases:** MongoDB, MySQL, SQLite, Firestore  
 - **Tools & Cloud:** Git, Docker, Linux, AWS, GCP
-
----
-
-## 📊 GitHub Stats
-
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tars2927&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://stats-github-readme.vercel.app/api?username=Tars2927&show_icons=true&theme=dark" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark" />
 </p>
+
 
 ## 📫 Connect With Me
 - 📧 Email: mishraraunakkumar3@gmail.com  
