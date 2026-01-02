@@ -55,8 +55,9 @@ Results-driven Computer Science student focused on building **real-world AI syst
 
 <p align="center">
   <img src="https://stats-github-readme.vercel.app/api?username=Tars2927&show_icons=true&theme=dark" />
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark&hide=jupyter%20notebook,html,css" />
 </p>
+
 
 
 ## 📫 Connect With Me
