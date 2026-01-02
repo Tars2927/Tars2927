@@ -1,51 +1,61 @@
-<h1 align="center">Hey, I'm Tars 👋</h1>
-<h3 align="center">AI / ML Engineer • Full-Stack Builder</h3>
+# Hi 👋 I'm Raunak Mishra (Tars)
 
-<p align="center">
-I build intelligent systems, scalable backends, and real-world AI applications.<br/>
-Focused on impact, not just demos.
-</p>
+AI/ML Engineer • Full-Stack Developer • System Builder  
+
+Results-driven Computer Science student focused on building **real-world AI systems and scalable web applications**, not just prototypes.
 
 ---
 
-## 🧠 What I Do
-- Applied AI & Machine Learning (beyond notebooks)
-- Full-stack systems with real users
-- Backend APIs, data pipelines & ML integration
-- Turning ideas into deployable products
+## 🧠 About Me
+- 🎓 B.Tech CSE (4th Year) at KIIT DU  
+- 🧪 Minor in AI/ML from IIT Ropar  
+- 🤖 Strong focus on applied AI, ML & system design  
+- 🌐 Experience across full-stack, cloud, and ML pipelines  
+- 🚀 Passionate about building intelligent, impact-driven products
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
+### 🔹 Adhyayan-Mitram — AI in Personalized Learning
+- Hybrid AI system to **predict student performance** and generate **personalized learning plans**
+- RandomForestRegressor with **84% R² score**
+- Integrated **Google Gemini API** for adaptive feedback
+- Built & deployed using **Streamlit**
 
-🔹 **Adhyayan-Mitram**  
-AI-powered personalized learning system that predicts student performance and generates adaptive learning plans using ML + Gemini API.
+**Tech:** Python, Pandas, Scikit-learn, Streamlit, Gemini API
 
-🔹 **Real-Time Object Detection (YOLO)**  
-High-performance computer vision system for real-time video and image feeds with customizable detection pipelines.
+---
 
-🔹 **LearnSphere**  
-Full-stack e-learning platform featuring live classes, recorded lectures, dashboards, and RESTful APIs.
+### 🔹 Real-Time Object Detection using YOLO
+- AI-powered object detection system for **real-time video & image feeds**
+- Customizable detection models for different use cases
+- Backend API integration for optimized data handling
 
-👉 Check pinned repositories below for details.
+**Tech:** Python, PyTorch, Computer Vision, YOLO
+
+---
+
+### 🔹 LearnSphere — E-Learning Platform
+- Full-stack platform for **live classes & recorded content**
+- User-friendly dashboard for courses, tests, and mentorship
+- RESTful APIs for seamless frontend–backend communication
+
+**Tech:** React, Node.js, Express, MongoDB
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Python, JavaScript, C++, Go  
-**AI / ML:** PyTorch, TensorFlow, Scikit-learn, Pandas  
-**Web:** React, Next.js, Node.js, Express, Streamlit  
-**Databases:** MongoDB, MySQL, SQLite, Firestore  
-**Tools & Cloud:** Git, Docker, Linux, AWS, GCP
+- **Languages:** Python, C++, JavaScript, Go  
+- **AI / ML:** PyTorch, TensorFlow, Scikit-learn, Pandas  
+- **Web:** React, Next.js, Node.js, Express, Streamlit  
+- **Databases:** MongoDB, MySQL, SQLite, Firestore  
+- **Tools & Cloud:** Git, Docker, Linux, AWS, GCP
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats-github-readme.vercel.app/api?username=Tars2927&show_icons=true&theme=dark" />
-  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark&hide=php,hack" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tars2927&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tars2927&layout=compact&theme=dark)
 
 ---
 
@@ -55,6 +65,4 @@ Full-stack e-learning platform featuring live classes, recorded lectures, dashbo
 
 ---
 
-<p align="center">
 ⭐ Always open to internships, research roles, and building meaningful products.
-</p>
