@@ -2,7 +2,7 @@
 <p align="center"><i>Tars</i></p>
 
 <p align="center">
-AI / ML Engineer · Full-Stack Developer · System Builder
+AI / ML Engineer · Full-Stack Developer · Cybersecurity 
 </p>
 
 <p align="center">
